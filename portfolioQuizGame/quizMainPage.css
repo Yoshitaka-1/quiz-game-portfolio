@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+#target {
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+}
+#img {
+    text-align: center;
+}
